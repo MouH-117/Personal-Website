@@ -6,7 +6,7 @@ A personal website built as the first project in the [Scrimba Fullstack Develope
 
 ## 🛠️ Built With
 
-[![Skills](https://skillicons.dev/icons?i=html,css,vite)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=html,css,js,vite)](https://skillicons.dev)
 
 ---
 
