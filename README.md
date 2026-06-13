@@ -26,4 +26,4 @@ npm start
 
 ---
 
-*Part of my [Fullstack Developer Path](https://github.com/MouH-117/Fullstack-Dev-Path) repo.*
+*Part of my [Fullstack Developer Path](https://scrimba.com/fullstack-path-c0fullstack?via=u019s7t) repo.*
